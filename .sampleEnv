@@ -1,0 +1,14 @@
+
+
+MONGO_URL=samplemongoDBURL
+
+JWT_SECRET=gkgkgkggkgk
+ADMIN_SECRET_KEY=sampleAdminKey
+
+NODE_ENV=DEVELOPMENT
+
+CLIENT_URL=frontendURL
+
+CLOUD_NAME=samplecloudname
+CLOUD_API_KEY=sampleapikey
+CLOUD_API_SECRET=sampleapiSecret
